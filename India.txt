@@ -1,0 +1,27 @@
+
+
+
+                                                 Team India
+                                                _______________
+
+
+                                                
+Captain Name : Virat Kholi
+Coach Name   : Sharukh Khan
+
+-----------------------------------------------------------------------------------------------------------------
+Name                 Player Ranking            Shirt         Total Wickets        Average             Total Runs
+-----------------------------------------------------------------------------------------------------------------
+Sachin Tendulkar  |       4          |       25        |        51          |      45.90       |        16932
+Virat Kohli       |       2          |       26        |        99          |      58.78       |        12518
+Rahul Dravid      |       5          |       27        |        2           |      27.50       |        12875
+Virender Sehwag   |       27         |       28        |        32          |      33.72       |        1599
+Rohit Sharma      |       17         |       29        |        66          |      15.90       |        5530
+Shikhar Dhawan    |       23         |       30        |        123         |      39.50       |        3198
+Sourav Ganguly    |       49         |       35        |        156         |      20.10       |        3235 
+MS Dhoni          |       141        |       31        |        192         |      42.80       |        4791
+Ravi Ashwin       |       119        |       32        |        119         |      32.50       |        1179
+Ravi Jadeja       |       36         |       33        |        173         |      37.60       |        1190
+Rishabh Pant      |       139        |       34        |        0           |      35.70       |        2110
+
+

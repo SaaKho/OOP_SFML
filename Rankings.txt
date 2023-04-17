@@ -1,0 +1,15 @@
+             *********** ICC Rankings ********
+
+------------------------------------------------------
+Teams              Test           ODI        T20
+------------------------------------------------------
+Pakistan      |     1      |      1     |     1
+England       |     5      |      2     |     5
+Australia     |     4      |      4     |     2
+India         |     3      |      5     |     9
+SriLanka      |     7      |      7     |     6
+South Africa  |     6      |      6     |     4
+Newzealand    |     2      |      2     |     7
+West Indies   |     9      |      8     |     3
+Bangladesh    |     8      |      9     |     9
+Afghanistan   |     10     |      10    |     10
